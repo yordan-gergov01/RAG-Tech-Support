@@ -1,0 +1,483 @@
+[
+  {
+    "test_id": "test_001",
+    "query": "How do I install CloudSync Pro on Windows?",
+    "relevant_products": [
+      "CloudSync Pro"
+    ],
+    "relevant_categories": [
+      "installation"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 1.0,
+    "recall@3": 0.6,
+    "hit_rate@3": 1.0,
+    "precision@5": 1.0,
+    "recall@5": 1.0,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "CloudSync Pro",
+        "category": "installation",
+        "title": "How to Install CloudSync Pro on Windows",
+        "distance": 0.274188369512558
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "installation",
+        "title": "How to Install CloudSync Pro on Windows",
+        "distance": 0.28043699264526367
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "installation",
+        "title": "How to Install CloudSync Pro on Mac",
+        "distance": 0.28043699264526367
+      }
+    ]
+  },
+  {
+    "test_id": "test_002",
+    "query": "My files are not syncing in CloudSync Pro",
+    "relevant_products": [
+      "CloudSync Pro"
+    ],
+    "relevant_categories": [
+      "troubleshooting"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 1.0,
+    "recall@3": 0.6,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.6,
+    "recall@5": 0.6,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "CloudSync Pro",
+        "category": "troubleshooting",
+        "title": "CloudSync Pro: Sync not working",
+        "distance": 0.5687018632888794
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "troubleshooting",
+        "title": "CloudSync Pro: Files not uploading",
+        "distance": 0.6950024366378784
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "troubleshooting",
+        "title": "CloudSync Pro: Slow sync speed",
+        "distance": 0.7276575565338135
+      }
+    ]
+  },
+  {
+    "test_id": "test_003",
+    "query": "What is selective sync feature?",
+    "relevant_products": [
+      "CloudSync Pro"
+    ],
+    "relevant_categories": [
+      "features"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.3333333333333333,
+    "recall@3": 0.2,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.4,
+    "recall@5": 0.4,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "CloudSync Pro",
+        "category": "features",
+        "title": "CloudSync Pro: Selective Sync",
+        "distance": 1.2606070041656494
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "troubleshooting",
+        "title": "CloudSync Pro: Sync not working",
+        "distance": 1.4355546236038208
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "troubleshooting",
+        "title": "CloudSync Pro: Slow sync speed",
+        "distance": 1.4665606021881104
+      }
+    ]
+  },
+  {
+    "test_id": "test_004",
+    "query": "How to backup files with DataVault?",
+    "relevant_products": [
+      "DataVault"
+    ],
+    "relevant_categories": [
+      "features",
+      "installation"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.3333333333333333,
+    "recall@3": 0.2,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.6,
+    "recall@5": 0.6,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "DataVault",
+        "category": "features",
+        "title": "DataVault: Incremental Backup",
+        "distance": 0.6706149578094482
+      },
+      {
+        "product": "DataVault",
+        "category": "troubleshooting",
+        "title": "DataVault: Cannot restore files",
+        "distance": 0.6744087934494019
+      },
+      {
+        "product": "DataVault",
+        "category": "troubleshooting",
+        "title": "DataVault: Backup fails",
+        "distance": 0.7484825849533081
+      }
+    ]
+  },
+  {
+    "test_id": "test_005",
+    "query": "DataVault backup is failing",
+    "relevant_products": [
+      "DataVault"
+    ],
+    "relevant_categories": [
+      "troubleshooting"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 1.0,
+    "recall@3": 0.6,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.6,
+    "recall@5": 0.6,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "DataVault",
+        "category": "troubleshooting",
+        "title": "DataVault: Backup fails",
+        "distance": 0.3883313536643982
+      },
+      {
+        "product": "DataVault",
+        "category": "troubleshooting",
+        "title": "DataVault: Cannot restore files",
+        "distance": 0.6025886535644531
+      },
+      {
+        "product": "DataVault",
+        "category": "troubleshooting",
+        "title": "DataVault: Encryption password forgotten",
+        "distance": 0.7933624982833862
+      }
+    ]
+  },
+  {
+    "test_id": "test_006",
+    "query": "TeamChat video call quality is bad",
+    "relevant_products": [
+      "TeamChat"
+    ],
+    "relevant_categories": [
+      "troubleshooting"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.3333333333333333,
+    "recall@3": 0.2,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.2,
+    "recall@5": 0.2,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "TeamChat",
+        "category": "troubleshooting",
+        "title": "TeamChat: Video call quality issues",
+        "distance": 0.3249702453613281
+      },
+      {
+        "product": "TeamChat",
+        "category": "features",
+        "title": "TeamChat: Video Conferencing",
+        "distance": 0.7274186611175537
+      },
+      {
+        "product": "TeamChat",
+        "category": "features",
+        "title": "TeamChat: Channels",
+        "distance": 1.0526121854782104
+      }
+    ]
+  },
+  {
+    "test_id": "test_007",
+    "query": "How to send messages in TeamChat?",
+    "relevant_products": [
+      "TeamChat"
+    ],
+    "relevant_categories": [
+      "features"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.6666666666666666,
+    "recall@3": 0.4,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.4,
+    "recall@5": 0.4,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "TeamChat",
+        "category": "features",
+        "title": "TeamChat: Direct Messages",
+        "distance": 0.49032390117645264
+      },
+      {
+        "product": "TeamChat",
+        "category": "features",
+        "title": "TeamChat: Channels",
+        "distance": 0.7017180919647217
+      },
+      {
+        "product": "TeamChat",
+        "category": "troubleshooting",
+        "title": "TeamChat: Cannot send messages",
+        "distance": 0.7414505481719971
+      }
+    ]
+  },
+  {
+    "test_id": "test_008",
+    "query": "Cannot create new project in ProjectHub",
+    "relevant_products": [
+      "ProjectHub"
+    ],
+    "relevant_categories": [
+      "troubleshooting"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.6666666666666666,
+    "recall@3": 0.4,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.6,
+    "recall@5": 0.6,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "ProjectHub",
+        "category": "troubleshooting",
+        "title": "ProjectHub: Cannot create new project",
+        "distance": 0.33849820494651794
+      },
+      {
+        "product": "ProjectHub",
+        "category": "troubleshooting",
+        "title": "ProjectHub: Cannot invite team members",
+        "distance": 0.671219527721405
+      },
+      {
+        "product": "ProjectHub",
+        "category": "installation",
+        "title": "How to Install ProjectHub on Web",
+        "distance": 0.7443320751190186
+      }
+    ]
+  },
+  {
+    "test_id": "test_009",
+    "query": "What is Kanban board in ProjectHub?",
+    "relevant_products": [
+      "ProjectHub"
+    ],
+    "relevant_categories": [
+      "features"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.3333333333333333,
+    "recall@3": 0.2,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.2,
+    "recall@5": 0.2,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "ProjectHub",
+        "category": "features",
+        "title": "ProjectHub: Kanban Boards",
+        "distance": 0.6398938894271851
+      },
+      {
+        "product": "ProjectHub",
+        "category": "installation",
+        "title": "How to Install ProjectHub on Web",
+        "distance": 1.1855332851409912
+      },
+      {
+        "product": "ProjectHub",
+        "category": "installation",
+        "title": "How to Install ProjectHub on Android",
+        "distance": 1.2821381092071533
+      }
+    ]
+  },
+  {
+    "test_id": "test_010",
+    "query": "How much storage do I get with CloudSync Pro?",
+    "relevant_products": [
+      "CloudSync Pro"
+    ],
+    "relevant_categories": [
+      "faq"
+    ],
+    "precision@1": 0.0,
+    "recall@1": 0.0,
+    "hit_rate@1": 0.0,
+    "precision@3": 0.0,
+    "recall@3": 0.0,
+    "hit_rate@3": 0.0,
+    "precision@5": 0.0,
+    "recall@5": 0.0,
+    "hit_rate@5": 0.0,
+    "mrr": 0.0,
+    "top_3_results": [
+      {
+        "product": "CloudSync Pro",
+        "category": "installation",
+        "title": "How to Install CloudSync Pro on Windows",
+        "distance": 0.707693338394165
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "installation",
+        "title": "How to Install CloudSync Pro on Linux",
+        "distance": 0.7109343409538269
+      },
+      {
+        "product": "CloudSync Pro",
+        "category": "installation",
+        "title": "How to Install CloudSync Pro on iOS",
+        "distance": 0.7783998250961304
+      }
+    ]
+  },
+  {
+    "test_id": "test_011",
+    "query": "Is TeamChat available on mobile?",
+    "relevant_products": [
+      "TeamChat"
+    ],
+    "relevant_categories": [
+      "faq"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.3333333333333333,
+    "recall@3": 0.2,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.2,
+    "recall@5": 0.2,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "TeamChat",
+        "category": "faq",
+        "title": "FAQ: Is there a mobile app?",
+        "distance": 0.27374354004859924
+      },
+      {
+        "product": "TeamChat",
+        "category": "installation",
+        "title": "How to Install TeamChat on Android",
+        "distance": 0.6118637323379517
+      },
+      {
+        "product": "TeamChat",
+        "category": "installation",
+        "title": "How to Install TeamChat on iOS",
+        "distance": 0.67430579662323
+      }
+    ]
+  },
+  {
+    "test_id": "test_012",
+    "query": "How secure are DataVault backups?",
+    "relevant_products": [
+      "DataVault"
+    ],
+    "relevant_categories": [
+      "faq"
+    ],
+    "precision@1": 1.0,
+    "recall@1": 0.2,
+    "hit_rate@1": 1.0,
+    "precision@3": 0.3333333333333333,
+    "recall@3": 0.2,
+    "hit_rate@3": 1.0,
+    "precision@5": 0.2,
+    "recall@5": 0.2,
+    "hit_rate@5": 1.0,
+    "mrr": 1.0,
+    "top_3_results": [
+      {
+        "product": "DataVault",
+        "category": "faq",
+        "title": "FAQ: How secure are my backups?",
+        "distance": 0.8987860679626465
+      },
+      {
+        "product": "DataVault",
+        "category": "features",
+        "title": "DataVault: Backup Verification",
+        "distance": 0.9532902240753174
+      },
+      {
+        "product": "DataVault",
+        "category": "features",
+        "title": "DataVault: Incremental Backup",
+        "distance": 1.0703569650650024
+      }
+    ]
+  }
+]
